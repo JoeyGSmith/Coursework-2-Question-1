@@ -3,6 +3,9 @@
 #include <iomanip>
 #include "Vector.hpp"
 
+//IMPORTANT!
+//This file is not mine, but was given by the module convener.
+
 // Overridden copy constructor
 // Allocates memory for new vector, and copies
 // entries of other vector into it
